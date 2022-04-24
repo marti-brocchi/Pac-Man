@@ -4,7 +4,9 @@ University of Genoa, first year of bachelor's degree in computer science. Group 
 This program simulates the famous Pac-Man game.
 
 ---
+## Compile and execute
+````
+g++ -o pacman \*.cpp
+./pacman
+````
 
-Compile with: g++ -o pacman \*.cpp
-
-Execute with: ./pacman
